@@ -1,3 +1,5 @@
+This is a basic project done to learn more about React Routing.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
